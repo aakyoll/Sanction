@@ -1,1 +1,3 @@
 # Sanction
+Deneme
+cd
